@@ -12,7 +12,7 @@
 
 - Clone this repository to your local machine.  
   ```
-  git clone
+  git clone https://github.com/rex-87/cookiecutter-python.git
   ```
 
 ## Usage

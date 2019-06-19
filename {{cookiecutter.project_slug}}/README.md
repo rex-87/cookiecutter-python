@@ -12,7 +12,7 @@
 
 - Clone this repository to your local machine.  
   ```
-  git clone http://simstash.mat.tagmclarengroup.com/scm/ts/{{cookiecutter.project_slug}}.git
+  git clone https://github.com/rex-87/{{cookiecutter.project_slug}}.git
   ```
 
 ## Usage  
