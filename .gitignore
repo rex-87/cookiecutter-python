@@ -1,0 +1,5 @@
+# Python
+*.pyc
+
+# Environment
+setup/ENV_OK

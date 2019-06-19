@@ -1,0 +1,8 @@
+{
+  "project_name": "Python Project Example",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "This project is an example of a Python project generated from cookiecutter-python.",
+  "environment_architecture": ["64-bit", "32-bit"],
+  "python_version": "3",
+  "python_dependencies": "numpy pandas"
+}
