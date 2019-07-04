@@ -6,14 +6,11 @@
 
 ### Prerequisites
 
-- Install [Git](https://git-scm.com/downloads)
+*Work in progress ...*
 
 ### Installation
 
-- Clone this repository to your local machine.  
-  ```
-  git clone https://github.com/rex-87/{{cookiecutter.project_slug}}.git
-  ```
+*Work in progress ...*
 
 ## Usage  
 
