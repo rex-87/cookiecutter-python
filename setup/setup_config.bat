@@ -2,7 +2,7 @@
 REM # -----------------------------------------------------
 REM # USER-DEFINED VARIABLES
 REM # -----------------------------------------------------
-SET ENVIRONMENT_NAME=cookiecutter_env
+SET ENVIRONMENT_NAME=cookiecutter_python_env
 SET ENVIRONMENT_ARCHITECTURE=64-bit
 SET PYTHON_VERSION=3
 SET PYTHON_DEPENDENCIES=cookiecutter
