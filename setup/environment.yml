@@ -1,4 +1,4 @@
-name: cookiecutter_env
+name: cookiecutter_python_env
 channels:
   - conda-forge
   - defaults
