@@ -4,5 +4,5 @@
   "project_short_description": "This project is an example of a Python project generated from cookiecutter-python.",
   "environment_architecture": ["64-bit", "32-bit"],
   "python_version": "3",
-  "python_dependencies": "numpy pandas"
+  "python_dependencies": "numpy pandas ipython"
 }
